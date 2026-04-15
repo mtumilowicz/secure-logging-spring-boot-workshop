@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: secure-logging-demo
+
+logging:
+  level:
+    root: INFO
+    com.example.securelogging: INFO
+
+app:
+  logging:
+    masked-headers:
+      - Authorization
+      - Cookie
+      - Set-Cookie
+      - X-API-KEY
