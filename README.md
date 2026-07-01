@@ -1,5 +1,4 @@
 # secure-logging-spring-boot-workshop
-  * description proposal: Short introduction to secure logging and secret handling in the Spring Boot context.
   * references
     * https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
     * https://cwe.mitre.org/data/definitions/532.html
